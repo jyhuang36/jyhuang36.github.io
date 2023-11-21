@@ -1,123 +1,59 @@
 ---
 layout: default
+title: "James Y. Huang"
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+My name is James Y. Huang. I’m a second-year Ph.D. student at University of Southern California (USC) advised by [Prof. Muhao Chen](https://muhaochen.github.io/). Prior to joining USC, I received my M.S. in computer science from University of California, Los Angeles (UCLA) where I worked with [Prof. Kai-Wei Chang](http://web.cs.ucla.edu/~kwchang/). My research interest lies in natural language processing and machine learning.
 
-[Link to another page](./another-page.html).
+## Education
 
-There should be whitespace between paragraphs.
+2021 - present: Ph.D. in Computer Science, University of Southern California
+2019 - 2021: M.S. in Computer Science, University of California, Los Angeles
+2015 - 2019：B.AS. in Engineering Science (Robotics Major), University of Toronto 
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## Publications
 
-# Header 1
+(* indicates equal contribution)
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+**Bridging Continuous and Discrete Space: Interpretable Sentence Representation Learning via Compositional Operations**
+<u>James Y. Huang</u>, Wenlin Yao, Kaiqiang Song, Hongming Zhang, Muhao Chen, Dong Yu
+**EMNLP 2023**
+[[pdf]](https://arxiv.org/pdf/2305.14599.pdf)
 
-## Header 2
+**Robust Natural Language Understanding with Residual Attention Debiasing**
+Fei Wang*, <u>James Y. Huang*</u>, Tianyi Yan, Wenxuan Zhou, Muhao Chen
+**ACL-Findings 2023**
+[[pdf]](https://aclanthology.org/2023.findings-acl.32.pdf) [[code]](https://github.com/luka-group/READ)
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+**Parameter-Efficient Tuning with Special Token Adaptation**
+Xiaocong Yang, <u>James Y. Huang</u>, Wenxuan Zhou, Muhao Chen
+**EACL 2023**
+[[pdf]](https://aclanthology.org/2023.eacl-main.60.pdf) [[code]](https://github.com/luka-group/PASTA/)
 
-### Header 3
+**Unified Semantic Typing with Meaningful Label Inference**
+<u>James Y. Huang</u>, Bangzheng Li, Jiashu Xu, Muhao Chen
+**NAACL 2022**
+[[pdf]](https://aclanthology.org/2022.naacl-main.190.pdf) [[code]](https://github.com/luka-group/UniST)
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+**Disentangling Semantics and Syntax in Sentence Embeddings with Pre-trained Language Models**
+<u>James Y. Huang</u>, Kuan-Hao Huang, Kai-Wei Chang
+**NAACL 2021**
+[[pdf]](https://aclanthology.org/2021.naacl-main.108.pdf), [[code]](https://github.com/uclanlp/ParaBART)
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+**Robotic Immobilization of Motile Sperm**
+Zhuoran Zhang, Changsheng Dai, <u>James Huang</u>, Xian Wang, Jun Liu, Junyan Zhang, Sergey Moskovtsev, Clifford Librach, Keith Jarvi, Yu Sun
+**ICRA 2018**
+[[pdf]](https://ieeexplore.ieee.org/document/8462912)
 
-#### Header 4
+**Automated Non-Invasive Measurement of Sperm Motility and Morphology Parameters**
+Changsheng Dai, Zhuoran Zhang, James Huang, Xian Wang, Wenlong Meng, Junyan Zhang, Sergey Moskovtsev, Clifford Librach, Keith Jarvi, Yu Sun
+**ICRA 2018**
+[[pdf]](https://ieeexplore.ieee.org/document/8461252)
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+## Experience
 
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+05/2023 - 08/2023: Applied Scientist Intern @ AWS AI
+05/2022 - 08/2022: Research Scientist Intern @ Tencent AI Lab
 
 
-### Definition lists can be used with HTML syntax.
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
