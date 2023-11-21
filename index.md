@@ -5,11 +5,15 @@ title: "James Y. Huang"
 
 My name is James Y. Huang. I’m a second-year Ph.D. student at University of Southern California (USC) advised by [Prof. Muhao Chen](https://muhaochen.github.io/). Prior to joining USC, I received my M.S. in computer science from University of California, Los Angeles (UCLA) where I worked with [Prof. Kai-Wei Chang](http://web.cs.ucla.edu/~kwchang/). My research interest lies in natural language processing and machine learning.
 
+---
+
 ## Education
 
 2021 - present: Ph.D. in Computer Science, University of Southern California
 2019 - 2021: M.S. in Computer Science, University of California, Los Angeles
 2015 - 2019：B.AS. in Engineering Science (Robotics Major), University of Toronto 
+
+---
 
 ## Publications
 
@@ -50,10 +54,14 @@ Changsheng Dai, Zhuoran Zhang, James Huang, Xian Wang, Wenlong Meng, Junyan Zhan
 **ICRA 2018**
 [[pdf]](https://ieeexplore.ieee.org/document/8461252)
 
+
+---
+
 ## Experience
 
-05/2023 - 08/2023: Applied Scientist Intern @ AWS AI
+05/2023 - 08/2023: Applied Scientist Intern @ Amazon Web Service AI
 05/2022 - 08/2022: Research Scientist Intern @ Tencent AI Lab
 
+---
 
 
