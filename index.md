@@ -17,7 +17,7 @@ My name is James Y. Huang. I’m a third-year Ph.D. student at University of Sou
 
 ## Experience
 
-05/2023 - 08/2023: Applied Scientist Intern @ Amazon Web Service AI \\
+05/2023 - 08/2023: Applied Scientist Intern @ Amazon Web Services AI \\
 05/2022 - 08/2022: Research Scientist Intern @ Tencent AI Lab
 
 
