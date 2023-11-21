@@ -3,7 +3,7 @@ layout: default
 title: "James Y. Huang"
 ---
 
-My name is James Y. Huang. I’m a third-year Ph.D. student at University of Southern California (USC) advised by [Prof. Muhao Chen](https://muhaochen.github.io/). Prior to joining USC, I received my M.S. in computer science from University of California, Los Angeles (UCLA) where I worked with [Prof. Kai-Wei Chang](http://web.cs.ucla.edu/~kwchang/). My research interest lies in natural language processing and machine learning.
+My name is James Y. Huang. I’m a third-year Ph.D. student at University of Southern California (USC) advised by [Prof. Muhao Chen](https://muhaochen.github.io/). Prior to joining USC, I received my M.S. from University of California, Los Angeles (UCLA) where I worked with [Prof. Kai-Wei Chang](http://web.cs.ucla.edu/~kwchang/). My research interest lies in natural language processing and machine learning.
 
 
 
