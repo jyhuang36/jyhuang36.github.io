@@ -11,7 +11,7 @@ My name is James Y. Huang. I’m a third-year Ph.D. student at University of Sou
 
 2021 - present: Ph.D. in Computer Science, University of Southern California \\
 2019 - 2021: M.S. in Computer Science, University of California, Los Angeles \\
-2015 - 2019：B.AS. in Engineering Science (Robotics Major), University of Toronto 
+2015 - 2019: B.AS. in Engineering Science (Robotics Major), University of Toronto 
 
 
 
