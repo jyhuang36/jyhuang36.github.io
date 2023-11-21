@@ -49,7 +49,7 @@ Xiaocong Yang, <u>James Y. Huang</u>, Wenxuan Zhou, Muhao Chen \\
 **Disentangling Semantics and Syntax in Sentence Embeddings with Pre-trained Language Models** \\
 <u>James Y. Huang</u>, Kuan-Hao Huang, Kai-Wei Chang \\
 <em>NAACL 2021</em> \\
-[[pdf]](https://aclanthology.org/2021.naacl-main.108.pdf), [[code]](https://github.com/uclanlp/ParaBART)
+[[pdf]](https://aclanthology.org/2021.naacl-main.108.pdf) [[code]](https://github.com/uclanlp/ParaBART)
 
 **Robotic Immobilization of Motile Sperm** \\
 Zhuoran Zhang, Changsheng Dai, <u>James Huang</u>, Xian Wang, Jun Liu, Junyan Zhang, Sergey Moskovtsev, Clifford Librach, Keith Jarvi, Yu Sun \\
