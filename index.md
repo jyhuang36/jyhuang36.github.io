@@ -26,10 +26,10 @@ My name is James Y. Huang. I’m a third-year Ph.D. student at University of Sou
 
 (* indicates equal contribution)
 
-**Bridging Continuous and Discrete Space: Interpretable Sentence Representation Learning via Compositional Operations** \\
+**Bridging Continuous and Discrete Spaces: Interpretable Sentence Representation Learning via Compositional Operations** \\
 <u>James Y. Huang</u>, Wenlin Yao, Kaiqiang Song, Hongming Zhang, Muhao Chen, Dong Yu \\
-<em>EMNLP 2023</em> \\
-[[pdf]](https://arxiv.org/pdf/2305.14599.pdf)
+<em>EMNLP 2023 (<span style="color:orangered">Outstanding Paper Award</span>)</em> \\
+[[pdf]](https://arxiv.org/pdf/2305.14599.pdf) [[code]](https://github.com/jyhuang36/InterSent)
 
 **Robust Natural Language Understanding with Residual Attention Debiasing** \\
 Fei Wang*, <u>James Y. Huang*</u>, Tianyi Yan, Wenxuan Zhou, Muhao Chen \\
