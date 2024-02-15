@@ -25,42 +25,42 @@ My name is James Y. Huang. I’m a third-year Ph.D. student at University of Sou
 ## Publications
 
 **DeAL: Decoding-time Alignment for Large Language Models** \\
-<u>James Y. Huang*</u>, Sailik Sengupta*, Daniele Bonadiman, Yi-an Lai, Arshit Gupta, Nikolaos Pappas, Saab Mansour, Katrin Kirchoff, Dan Roth \\
+<span style="color:black">James Y. Huang*</span>, Sailik Sengupta*, Daniele Bonadiman, Yi-an Lai, Arshit Gupta, Nikolaos Pappas, Saab Mansour, Katrin Kirchoff, Dan Roth \\
 <em>Preprint 2024</em> \\
 [[pdf]](https://arxiv.org/pdf/2402.06147.pdf)
 
 **Bridging Continuous and Discrete Spaces: Interpretable Sentence Representation Learning via Compositional Operations** \\
-<u>James Y. Huang</u>, Wenlin Yao, Kaiqiang Song, Hongming Zhang, Muhao Chen, Dong Yu \\
+<span style="color:black">James Y. Huang</span>, Wenlin Yao, Kaiqiang Song, Hongming Zhang, Muhao Chen, Dong Yu \\
 <em>EMNLP 2023 (<span style="color:orangered">Outstanding Paper Award</span>)</em> \\
 [[pdf]](https://aclanthology.org/2023.emnlp-main.900.pdf) [[code]](https://github.com/jyhuang36/InterSent)
 
 **Robust Natural Language Understanding with Residual Attention Debiasing** \\
-Fei Wang*, <u>James Y. Huang*</u>, Tianyi Yan, Wenxuan Zhou, Muhao Chen \\
+Fei Wang*, <span style="color:black">James Y. Huang*</span>, Tianyi Yan, Wenxuan Zhou, Muhao Chen \\
 <em>ACL-Findings 2023</em> \\
 [[pdf]](https://aclanthology.org/2023.findings-acl.32.pdf) [[code]](https://github.com/luka-group/READ)
 
 **Parameter-Efficient Tuning with Special Token Adaptation** \\
-Xiaocong Yang, <u>James Y. Huang</u>, Wenxuan Zhou, Muhao Chen \\
+Xiaocong Yang, <span style="color:black">James Y. Huang</span>, Wenxuan Zhou, Muhao Chen \\
 <em>EACL 2023</em> \\
 [[pdf]](https://aclanthology.org/2023.eacl-main.60.pdf) [[code]](https://github.com/luka-group/PASTA/)
 
 **Unified Semantic Typing with Meaningful Label Inference** \\
-<u>James Y. Huang</u>, Bangzheng Li, Jiashu Xu, Muhao Chen \\
+<span style="color:black">James Y. Huang</span>, Bangzheng Li, Jiashu Xu, Muhao Chen \\
 <em>NAACL 2022</em> \\
 [[pdf]](https://aclanthology.org/2022.naacl-main.190.pdf) [[code]](https://github.com/luka-group/UniST)
 
 **Disentangling Semantics and Syntax in Sentence Embeddings with Pre-trained Language Models** \\
-<u>James Y. Huang</u>, Kuan-Hao Huang, Kai-Wei Chang \\
+<span style="color:black">James Y. Huang</span>, Kuan-Hao Huang, Kai-Wei Chang \\
 <em>NAACL 2021</em> \\
 [[pdf]](https://aclanthology.org/2021.naacl-main.108.pdf) [[code]](https://github.com/uclanlp/ParaBART)
 
 **Robotic Immobilization of Motile Sperm** \\
-Zhuoran Zhang, Changsheng Dai, <u>James Huang</u>, Xian Wang, Jun Liu, Junyan Zhang, Sergey Moskovtsev, Clifford Librach, Keith Jarvi, Yu Sun \\
+Zhuoran Zhang, Changsheng Dai, <span style="color:black">James Huang</span>, Xian Wang, Jun Liu, Junyan Zhang, Sergey Moskovtsev, Clifford Librach, Keith Jarvi, Yu Sun \\
 <em>ICRA 2018</em> \\
 [[pdf]](https://ieeexplore.ieee.org/document/8462912)
 
 **Automated Non-Invasive Measurement of Sperm Motility and Morphology Parameters** \\
-Changsheng Dai, Zhuoran Zhang, <u>James Huang</u>, Xian Wang, Wenlong Meng, Junyan Zhang, Sergey Moskovtsev, Clifford Librach, Keith Jarvi, Yu Sun \\
+Changsheng Dai, Zhuoran Zhang, <span style="color:black">James Huang</span>, Xian Wang, Wenlong Meng, Junyan Zhang, Sergey Moskovtsev, Clifford Librach, Keith Jarvi, Yu Sun \\
 <em>ICRA 2018</em> \\
 [[pdf]](https://ieeexplore.ieee.org/document/8461252)
 
