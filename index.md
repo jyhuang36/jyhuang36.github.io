@@ -25,7 +25,7 @@ My name is James Y. Huang. I’m a third-year Ph.D. student at University of Sou
 ## Publications
 
 **DeAL: Decoding-time Alignment for Large Language Models** \\
-<span style="color:black">James Y. Huang*</span>, Sailik Sengupta*, Daniele Bonadiman, Yi-an Lai, Arshit Gupta, Nikolaos Pappas, Saab Mansour, Katrin Kirchoff, Dan Roth \\
+<span style="color:black">**James Y. Huang***</span>, Sailik Sengupta*, Daniele Bonadiman, Yi-an Lai, Arshit Gupta, Nikolaos Pappas, Saab Mansour, Katrin Kirchoff, Dan Roth \\
 <em>Preprint 2024</em> \\
 [[pdf]](https://arxiv.org/pdf/2402.06147.pdf)
 
