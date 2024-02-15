@@ -8,7 +8,6 @@ body {
   font: 15px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: var(--clr-text);
   font-weight:400;
-  text-underline-offset: 10px;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -54,6 +53,11 @@ a small {
 
 a:hover small {
   color:var(--clr-small-in-a);
+}
+
+u {
+  text-decoration: underline; 
+  text-underline-offset: 10px;
 }
 
 // added
