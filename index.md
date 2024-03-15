@@ -25,7 +25,7 @@ My name is James Y. Huang. I’m a third-year Ph.D. student at University of Sou
 ## Publications
 
 **Contrastive Instruction Tuning** \\
-Tianyi Yan, Fei Wang, <u>James Y Huang</u>, Wenxuan Zhou, Fan Yin, Aram Galstyan, Wenpeng Yin, Muhao Chen \\
+Tianyi Yan, Fei Wang, <u>James Y. Huang</u>, Wenxuan Zhou, Fan Yin, Aram Galstyan, Wenpeng Yin, Muhao Chen \\
 <em>arXiv 2024</em> \\
 [[pdf]](https://arxiv.org/pdf/2402.11138.pdf)
 
