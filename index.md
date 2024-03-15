@@ -36,7 +36,7 @@ Tianyi Yan, Fei Wang, <u>James Y. Huang</u>, Wenxuan Zhou, Fan Yin, Aram Galstya
 
 **Bridging Continuous and Discrete Spaces: Interpretable Sentence Representation Learning via Compositional Operations** \\
 <u>James Y. Huang</u>, Wenlin Yao, Kaiqiang Song, Hongming Zhang, Muhao Chen, Dong Yu \\
-<em>EMNLP 2023 (<span style="color:orangered">Outstanding Paper Award</span>)</em> \\
+<em>EMNLP 2023 (<span style="color:orangered">**Outstanding Paper Award**</span>)</em> \\
 [[pdf]](https://aclanthology.org/2023.emnlp-main.900.pdf) [[code]](https://github.com/jyhuang36/InterSent)
 
 **Robust Natural Language Understanding with Residual Attention Debiasing** \\
