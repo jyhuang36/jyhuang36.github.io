@@ -24,9 +24,14 @@ My name is James Y. Huang. I’m a third-year Ph.D. student at University of Sou
 
 ## Publications
 
+**Contrastive Instruction Tuning** \\
+Tianyi Yan, Fei Wang, <u>James Y Huang</u>, Wenxuan Zhou, Fan Yin, Aram Galstyan, Wenpeng Yin, Muhao Chen \\
+<em>arXiv 2024</em> \\
+[[pdf]](https://arxiv.org/pdf/2402.11138.pdf)
+
 **DeAL: Decoding-time Alignment for Large Language Models** \\
 <u>James Y. Huang*</u>, Sailik Sengupta*, Daniele Bonadiman, Yi-an Lai, Arshit Gupta, Nikolaos Pappas, Saab Mansour, Katrin Kirchoff, Dan Roth \\
-<em>Preprint 2024</em> \\
+<em>arXiv 2024</em> \\
 [[pdf]](https://arxiv.org/pdf/2402.06147.pdf)
 
 **Bridging Continuous and Discrete Spaces: Interpretable Sentence Representation Learning via Compositional Operations** \\
