@@ -11,7 +11,7 @@ Before Ph.D., I received my master's degree from [University of California, Los 
 
 ## News
 
-12/10/2023: Our [paper](https://aclanthology.org/2023.emnlp-main.900.pdf) on learning compositional sentence representations won an **Outstanding Paper Award** at EMNLP 2023!      
+[Dec 2023] Our [paper](https://aclanthology.org/2023.emnlp-main.900.pdf) on learning compositional sentence representations won **<span style="color:orangered">Outstanding Paper Award</span>** at EMNLP 2023!      
 
 
 ## Publications
