@@ -3,23 +3,15 @@ layout: default
 title: "James Y. Huang"
 ---
 
-My name is James Y. Huang. I’m a third-year Ph.D. student at University of Southern California (USC) advised by [Prof. Muhao Chen](https://muhaochen.github.io/). Prior to joining USC, I received my M.S. from University of California, Los Angeles (UCLA) where I worked with [Prof. Kai-Wei Chang](http://web.cs.ucla.edu/~kwchang/). My research interest lies in natural language processing and machine learning.
+My name is James Y. Huang. I’m a third-year Ph.D. student at University of Southern California (USC) advised by [Prof. Muhao Chen](https://muhaochen.github.io/) and [Prof. Fred Morstatter](https://fredzilla.github.io/). My research interest lies in natural language processing and machine learning, with a focus on robustness and controllability of languagem models. Previously, I was an research intern at AWS AI and Tencent AI Lab.
+
+Before Ph.D., I received my M.S. from University of California, Los Angeles (UCLA) where I worked with [Prof. Kai-Wei Chang](http://web.cs.ucla.edu/~kwchang/).  
 
 
 
-## Education
+## News
 
-2021 - present: Ph.D. in Computer Science, University of Southern California \\
-2019 - 2021: M.S. in Computer Science, University of California, Los Angeles \\
-2015 - 2019: B.AS. in Engineering Science (Robotics Major), University of Toronto 
-
-
-
-## Experience
-
-05/2023 - 08/2023: Applied Scientist Intern @ Amazon Web Services AI \\
-05/2022 - 08/2022: Research Scientist Intern @ Tencent AI Lab
-
+12/10/2023: Our paper, <em>Bridging Continuous and Discrete Spaces: Interpretable Sentence Representation Learning via Compositional Operations</em>, won an Outstanding Paper Award at EMNLP 2023!      
 
 
 ## Publications
