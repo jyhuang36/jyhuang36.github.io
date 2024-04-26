@@ -3,7 +3,7 @@ layout: default
 title: "James Y. Huang"
 ---
 
-My name is James Y. Huang. I’m a third-year Ph.D. student at University of Southern California (USC) advised by [Prof. Muhao Chen](https://muhaochen.github.io/) and [Prof. Fred Morstatter](https://fredzilla.github.io/). My research interest lies in natural language processing and machine learning, with a current focus on robustness and controllability of language models. Previously, I was an research intern at Amazon AWS AI and Tencent AI Lab.
+My name is James Y. Huang. I’m a third-year Ph.D. student at University of Southern California (USC) advised by [Prof. Muhao Chen](https://muhaochen.github.io/) and [Prof. Fred Morstatter](https://fredzilla.github.io/). My research interest lies in natural language processing and machine learning, with a current focus on robustness and safety of large language models. Previously, I was an research intern at Amazon AWS AI and Tencent AI Lab.
 
 Before Ph.D., I received my master's degree from [University of California, Los Angeles (UCLA)](https://www.cs.ucla.edu/) where I worked with [Prof. Kai-Wei Chang](http://web.cs.ucla.edu/~kwchang/). I got my bachelor's degree in [Engineering Science](https://engsci.utoronto.ca/program/what-is-engsci/) from University of Toronto.
 
@@ -16,15 +16,20 @@ Before Ph.D., I received my master's degree from [University of California, Los 
 
 ## Publications
 
+**Offset Unlearning for Large Language Models** \\
+<u>James Y. Huang</u>, Wenxuan Zhou, Fei Wang, Fred Morstatter, Sheng Zhang, Hoifung Poon, Muhao Chen \\
+<em>arXiv 2024</em> \\
+[[pdf]](https://arxiv.org/pdf/2404.11045)
+
 **Contrastive Instruction Tuning** \\
 Tianyi Yan, Fei Wang, <u>James Y. Huang</u>, Wenxuan Zhou, Fan Yin, Aram Galstyan, Wenpeng Yin, Muhao Chen \\
 <em>arXiv 2024</em> \\
-[[pdf]](https://arxiv.org/pdf/2402.11138.pdf)
+[[pdf]](https://arxiv.org/pdf/2402.11138)
 
 **DeAL: Decoding-time Alignment for Large Language Models** \\
 <u>James Y. Huang*</u>, Sailik Sengupta*, Daniele Bonadiman, Yi-an Lai, Arshit Gupta, Nikolaos Pappas, Saab Mansour, Katrin Kirchoff, Dan Roth \\
 <em>arXiv 2024</em> \\
-[[pdf]](https://arxiv.org/pdf/2402.06147.pdf)
+[[pdf]](https://arxiv.org/pdf/2402.06147)
 
 **Bridging Continuous and Discrete Spaces: Interpretable Sentence Representation Learning via Compositional Operations** \\
 <u>James Y. Huang</u>, Wenlin Yao, Kaiqiang Song, Hongming Zhang, Muhao Chen, Dong Yu \\
