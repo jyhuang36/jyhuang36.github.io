@@ -28,9 +28,9 @@ Before Ph.D., I received my master's degree from [University of California, Los 
 <em>arXiv 2024</em> \\
 [[pdf]](https://arxiv.org/pdf/2402.06147)
 
-[Contrastive Instruction Tuning](https://arxiv.org/pdf/2402.11138) \\
+**Contrastive Instruction Tuning** \\
 Tianyi Yan, Fei Wang, <u>James Y. Huang</u>, Wenxuan Zhou, Fan Yin, Aram Galstyan, Wenpeng Yin, Muhao Chen \\
-**ACL-Findings 2024** \\
+<em>ACL-Findings 2024</em> \\
 [[pdf]](https://arxiv.org/pdf/2402.11138)
 
 **Bridging Continuous and Discrete Spaces: Interpretable Sentence Representation Learning via Compositional Operations** \\
