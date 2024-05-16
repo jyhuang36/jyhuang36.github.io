@@ -30,17 +30,18 @@ Before Ph.D., I received my master's degree from [University of California, Los 
 
 **Contrastive Instruction Tuning** \\
 Tianyi Yan, Fei Wang, <u>James Y. Huang</u>, Wenxuan Zhou, Fan Yin, Aram Galstyan, Wenpeng Yin, Muhao Chen \\
-<em>ACL-Findings 2024</em> \\
+<em>ACL 2024 (Findings)</em> \\
 [[pdf]](https://arxiv.org/pdf/2402.11138)
 
 **Bridging Continuous and Discrete Spaces: Interpretable Sentence Representation Learning via Compositional Operations** \\
 <u>James Y. Huang</u>, Wenlin Yao, Kaiqiang Song, Hongming Zhang, Muhao Chen, Dong Yu \\
-<em>EMNLP 2023 (**<span style="color:orangered">Outstanding Paper Award</span>**)</em> \\
+<em>EMNLP 2023</em> \\
+(:trophy:**<span style="color:orangered">Outstanding Paper Award</span>**)
 [[pdf]](https://aclanthology.org/2023.emnlp-main.900.pdf) [[code]](https://github.com/jyhuang36/InterSent)
 
 **Robust Natural Language Understanding with Residual Attention Debiasing** \\
 Fei Wang*, <u>James Y. Huang*</u>, Tianyi Yan, Wenxuan Zhou, Muhao Chen \\
-<em>ACL-Findings 2023</em> \\
+<em>ACL 2023 (Findings)</em> \\
 [[pdf]](https://aclanthology.org/2023.findings-acl.32.pdf) [[code]](https://github.com/luka-group/READ)
 
 **Parameter-Efficient Tuning with Special Token Adaptation** \\
