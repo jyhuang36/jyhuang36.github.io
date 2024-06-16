@@ -13,13 +13,14 @@ Before Ph.D., I received my master's degree from [University of California, Los 
 
 [May 2024] Start my internship at Adobe Research.
 
-[Dec 2023] Our [paper](https://aclanthology.org/2023.emnlp-main.900.pdf) on learning compositional sentence representations won :trophy:**<span style="color:orangered">Outstanding Paper Award</span>** at EMNLP 2023!      
+[Dec 2023] Our [paper](https://aclanthology.org/2023.emnlp-main.900.pdf) on learning compositional sentence representations won \\
+:trophy:**<span style="color:orangered">Outstanding Paper Award</span>** at EMNLP 2023!      
 
 
 ## Publications
 
 **MuirBench: A Comprehensive Benchmark for Robust Multi-image Understanding** \\
-Fei Wang, Xingyu Fu, <u>James Y Huang</u>, Zekun Li, Qin Liu, Xiaogeng Liu, Mingyu Derek Ma, Nan Xu, Wenxuan Zhou, Kai Zhang, Tianyi Lorena Yan, Wenjie Jacky Mo, Hsiang-Hui Liu, Pan Lu, Chunyuan Li, Chaowei Xiao, Kai-Wei Chang, Dan Roth, Sheng Zhang, Hoifung Poon, Muhao Chen \\
+Fei Wang, Xingyu Fu, <u>James Y. Huang</u>, Zekun Li, Qin Liu, Xiaogeng Liu, Mingyu Derek Ma, Nan Xu, Wenxuan Zhou, Kai Zhang, Tianyi Lorena Yan, Wenjie Jacky Mo, Hsiang-Hui Liu, Pan Lu, Chunyuan Li, Chaowei Xiao, Kai-Wei Chang, Dan Roth, Sheng Zhang, Hoifung Poon, Muhao Chen \\
 <em>arXiv</em> \\
 [[pdf]](https://arxiv.org/pdf/2406.09411)
 
