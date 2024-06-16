@@ -3,7 +3,7 @@ layout: default
 title: "James Y. Huang"
 ---
 
-My name is James Y. Huang. I’m a third-year Ph.D. student at University of Southern California (USC) advised by [Prof. Muhao Chen](https://muhaochen.github.io/) and [Prof. Fred Morstatter](https://fredzilla.github.io/). My research interest lies in natural language processing and machine learning, with a focus on robustness and trustworthiness of LLMs. Previously, I was a research intern at Amazon AWS AI and Tencent AI Lab.
+My name is James Y. Huang. I’m a third-year Ph.D. student at University of Southern California (USC) advised by [Prof. Muhao Chen](https://muhaochen.github.io/) and [Prof. Fred Morstatter](https://fredzilla.github.io/). My research interest lies in natural language processing and machine learning, with a focus on robustness and trustworthiness of LLMs. Previously, I was a research intern at Adobe Research, Amazon AWS AI and Tencent AI Lab.
 
 Before Ph.D., I received my master's degree from [University of California, Los Angeles (UCLA)](https://www.cs.ucla.edu/) where I worked with [Prof. Kai-Wei Chang](http://web.cs.ucla.edu/~kwchang/). I got my bachelor's degree in [Engineering Science](https://engsci.utoronto.ca/program/what-is-engsci/) from University of Toronto.
 
@@ -13,10 +13,15 @@ Before Ph.D., I received my master's degree from [University of California, Los 
 
 [May 2024] Start my internship at Adobe Research.
 
-[Dec 2023] Our [paper](https://aclanthology.org/2023.emnlp-main.900.pdf) on learning compositional sentence representations won **<span style="color:orangered">Outstanding Paper Award</span>** at EMNLP 2023!      
+[Dec 2023] Our [paper](https://aclanthology.org/2023.emnlp-main.900.pdf) on learning compositional sentence representations won :trophy:**<span style="color:orangered">Outstanding Paper Award</span>** at EMNLP 2023!      
 
 
 ## Publications
+
+**MuirBench: A Comprehensive Benchmark for Robust Multi-image Understanding** \\
+Fei Wang, Xingyu Fu, <u>James Y Huang</u>, Zekun Li, Qin Liu, Xiaogeng Liu, Mingyu Derek Ma, Nan Xu, Wenxuan Zhou, Kai Zhang, Tianyi Lorena Yan, Wenjie Jacky Mo, Hsiang-Hui Liu, Pan Lu, Chunyuan Li, Chaowei Xiao, Kai-Wei Chang, Dan Roth, Sheng Zhang, Hoifung Poon, Muhao Chen \\
+<em>arXiv</em> \\
+[[pdf]](https://arxiv.org/pdf/2406.09411)
 
 **Offset Unlearning for Large Language Models** \\
 <u>James Y. Huang</u>, Wenxuan Zhou, Fei Wang, Fred Morstatter, Sheng Zhang, Hoifung Poon, Muhao Chen \\
