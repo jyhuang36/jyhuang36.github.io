@@ -20,7 +20,7 @@ Before Ph.D., I received my master's degree from [University of California, Los 
 ## Publications
 
 **mDPO: Conditional Preference Optimization for Multimodal Large Language Models** \\
-Fei Wang, Wenxuan Zhou, James Y Huang, Nan Xu, Sheng Zhang, Hoifung Poon, Muhao Chen \\
+Fei Wang, Wenxuan Zhou, <u>James Y. Huang</u>, Nan Xu, Sheng Zhang, Hoifung Poon, Muhao Chen \\
 <em>arXiv 2024</em> \\
 [[pdf]](https://arxiv.org/pdf/2406.11839)
 
