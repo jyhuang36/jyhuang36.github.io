@@ -26,7 +26,7 @@ Fei Wang, Wenxuan Zhou, <u>James Y. Huang</u>, Nan Xu, Sheng Zhang, Hoifung Poon
 [[pdf]](https://arxiv.org/pdf/2406.11839)
 
 **MuirBench: A Comprehensive Benchmark for Robust Multi-image Understanding** \\
-Fei Wang*, Xingyu Fu*, <u>James Y. Huang</u>, Zekun Li, Qin Liu, Xiaogeng Liu, Mingyu Derek Ma, Nan Xu, Wenxuan Zhou, Kai Zhang, Tianyi Lorena Yan, Wenjie Jacky Mo, Hsiang-Hui Liu, Pan Lu, Chunyuan Li, Chaowei Xiao, Kai-Wei Chang, Dan Roth, Sheng Zhang, Hoifung Poon, Muhao Chen \\
+Fei Wang\*, Xingyu Fu\*, <u>James Y. Huang</u>, Zekun Li, Qin Liu, Xiaogeng Liu, Mingyu Derek Ma, Nan Xu, Wenxuan Zhou, Kai Zhang, Tianyi Lorena Yan, Wenjie Jacky Mo, Hsiang-Hui Liu, Pan Lu, Chunyuan Li, Chaowei Xiao, Kai-Wei Chang, Dan Roth, Sheng Zhang, Hoifung Poon, Muhao Chen \\
 <em>arXiv 2024</em> \\
 [[pdf]](https://arxiv.org/pdf/2406.09411)
 
@@ -36,7 +36,7 @@ Fei Wang*, Xingyu Fu*, <u>James Y. Huang</u>, Zekun Li, Qin Liu, Xiaogeng Liu, M
 [[pdf]](https://arxiv.org/pdf/2404.11045)
 
 **DeAL: Decoding-time Alignment for Large Language Models** \\
-<u>James Y. Huang*</u>, Sailik Sengupta*, Daniele Bonadiman, Yi-an Lai, Arshit Gupta, Nikolaos Pappas, Saab Mansour, Katrin Kirchoff, Dan Roth \\
+<u>James Y. Huang\*</u>, Sailik Sengupta\*, Daniele Bonadiman, Yi-an Lai, Arshit Gupta, Nikolaos Pappas, Saab Mansour, Katrin Kirchoff, Dan Roth \\
 <em>arXiv 2024</em> \\
 [[pdf]](https://arxiv.org/pdf/2402.06147)
 
@@ -51,7 +51,7 @@ Tianyi Yan, Fei Wang, <u>James Y. Huang</u>, Wenxuan Zhou, Fan Yin, Aram Galstya
 [[pdf]](https://aclanthology.org/2023.emnlp-main.900.pdf) [[code]](https://github.com/jyhuang36/InterSent)
 
 **Robust Natural Language Understanding with Residual Attention Debiasing** \\
-Fei Wang*, <u>James Y. Huang*</u>, Tianyi Yan, Wenxuan Zhou, Muhao Chen \\
+Fei Wang\*, <u>James Y. Huang\*</u>, Tianyi Yan, Wenxuan Zhou, Muhao Chen \\
 <em>ACL 2023 (Findings)</em> \\
 [[pdf]](https://aclanthology.org/2023.findings-acl.32.pdf) [[code]](https://github.com/luka-group/READ)
 
