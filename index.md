@@ -36,7 +36,7 @@ Fei Wang\*, Xingyu Fu\*, <u>James Y. Huang</u>, Zekun Li, Qin Liu, Xiaogeng Liu,
 [[pdf]](https://arxiv.org/pdf/2404.11045)
 
 **DeAL: Decoding-time Alignment for Large Language Models** \\
-<u>James Y. Huang\*</u>, Sailik Sengupta\*, Daniele Bonadiman, Yi-an Lai, Arshit Gupta, Nikolaos Pappas, Saab Mansour, Katrin Kirchoff, Dan Roth \\
+<u>James Y. Huang*</u>, Sailik Sengupta\*, Daniele Bonadiman, Yi-an Lai, Arshit Gupta, Nikolaos Pappas, Saab Mansour, Katrin Kirchoff, Dan Roth \\
 <em>arXiv 2024</em> \\
 [[pdf]](https://arxiv.org/pdf/2402.06147)
 
@@ -51,7 +51,7 @@ Tianyi Yan, Fei Wang, <u>James Y. Huang</u>, Wenxuan Zhou, Fan Yin, Aram Galstya
 [[pdf]](https://aclanthology.org/2023.emnlp-main.900.pdf) [[code]](https://github.com/jyhuang36/InterSent)
 
 **Robust Natural Language Understanding with Residual Attention Debiasing** \\
-Fei Wang\*, <u>James Y. Huang\*</u>, Tianyi Yan, Wenxuan Zhou, Muhao Chen \\
+Fei Wang\*, <u>James Y. Huang*</u>, Tianyi Yan, Wenxuan Zhou, Muhao Chen \\
 <em>ACL 2023 (Findings)</em> \\
 [[pdf]](https://aclanthology.org/2023.findings-acl.32.pdf) [[code]](https://github.com/luka-group/READ)
 
