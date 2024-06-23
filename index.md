@@ -19,6 +19,11 @@ Before Ph.D., I received my master's degree from [University of California, Los 
 
 ## Publications
 
+**mDPO: Conditional Preference Optimization for Multimodal Large Language Models** \\
+Fei Wang, Wenxuan Zhou, James Y Huang, Nan Xu, Sheng Zhang, Hoifung Poon, Muhao Chen \\
+<em>arXiv 2024</em> \\
+[[pdf]](https://arxiv.org/pdf/2406.11839)
+
 **MuirBench: A Comprehensive Benchmark for Robust Multi-image Understanding** \\
 Fei Wang, Xingyu Fu, <u>James Y. Huang</u>, Zekun Li, Qin Liu, Xiaogeng Liu, Mingyu Derek Ma, Nan Xu, Wenxuan Zhou, Kai Zhang, Tianyi Lorena Yan, Wenjie Jacky Mo, Hsiang-Hui Liu, Pan Lu, Chunyuan Li, Chaowei Xiao, Kai-Wei Chang, Dan Roth, Sheng Zhang, Hoifung Poon, Muhao Chen \\
 <em>arXiv 2024</em> \\
