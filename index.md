@@ -11,8 +11,6 @@ Before Ph.D., I received my master's degree from [University of California, Los 
 
 ## News
 
-[May 2024] Start my internship at Adobe Research.
-
 [Dec 2023] Our [paper](https://aclanthology.org/2023.emnlp-main.900.pdf) on learning compositional sentence representations won \\
 :trophy:**<span style="color:orangered">Outstanding Paper Award</span>** at EMNLP 2023!      
 
@@ -22,7 +20,7 @@ Before Ph.D., I received my master's degree from [University of California, Los 
 
 **mDPO: Conditional Preference Optimization for Multimodal Large Language Models** \\
 Fei Wang, Wenxuan Zhou, <u>James Y. Huang</u>, Nan Xu, Sheng Zhang, Hoifung Poon, Muhao Chen \\
-<em>arXiv 2024</em> \\
+<em>EMNLP 2024</em> \\
 [[pdf]](https://arxiv.org/pdf/2406.11839)
 
 **MuirBench: A Comprehensive Benchmark for Robust Multi-image Understanding** \\
