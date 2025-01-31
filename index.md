@@ -18,15 +18,15 @@ Before Ph.D., I received my master's degree from [University of California, Los 
 ## Publications
 (* indicates equal contribution)
 
+**MuirBench: A Comprehensive Benchmark for Robust Multi-image Understanding** \\
+Fei Wang\*, Xingyu Fu\*, <u>James Y. Huang</u>, Zekun Li, Qin Liu, Xiaogeng Liu, Mingyu Derek Ma, Nan Xu, Wenxuan Zhou, Kai Zhang, Tianyi Lorena Yan, Wenjie Jacky Mo, Hsiang-Hui Liu, Pan Lu, Chunyuan Li, Chaowei Xiao, Kai-Wei Chang, Dan Roth, Sheng Zhang, Hoifung Poon, Muhao Chen \\
+<em>ICLR 2025</em> \\
+[[pdf]](https://arxiv.org/pdf/2406.09411)
+
 **mDPO: Conditional Preference Optimization for Multimodal Large Language Models** \\
 Fei Wang, Wenxuan Zhou, <u>James Y. Huang</u>, Nan Xu, Sheng Zhang, Hoifung Poon, Muhao Chen \\
 <em>EMNLP 2024</em> \\
 [[pdf]](https://arxiv.org/pdf/2406.11839)
-
-**MuirBench: A Comprehensive Benchmark for Robust Multi-image Understanding** \\
-Fei Wang\*, Xingyu Fu\*, <u>James Y. Huang</u>, Zekun Li, Qin Liu, Xiaogeng Liu, Mingyu Derek Ma, Nan Xu, Wenxuan Zhou, Kai Zhang, Tianyi Lorena Yan, Wenjie Jacky Mo, Hsiang-Hui Liu, Pan Lu, Chunyuan Li, Chaowei Xiao, Kai-Wei Chang, Dan Roth, Sheng Zhang, Hoifung Poon, Muhao Chen \\
-<em>arXiv 2024</em> \\
-[[pdf]](https://arxiv.org/pdf/2406.09411)
 
 **Offset Unlearning for Large Language Models** \\
 <u>James Y. Huang</u>, Wenxuan Zhou, Fei Wang, Fred Morstatter, Sheng Zhang, Hoifung Poon, Muhao Chen \\
