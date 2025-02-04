@@ -26,7 +26,7 @@ sidebar:
     icon: <i class="fa-brands fa-linkedin"></i>
     link: https://www.linkedin.com/in/james-yipeng-huang-3b3a22168/
   - name: CV
-    icon: <i class="fa-solid fa-file-user"></i>
+    icon: <i class="fa-solid fa-file"></i>
     link: /assets/pdf/CV.pdf
 
 # https://github.com/github/pages-gem/issues/399#issuecomment-301827749
