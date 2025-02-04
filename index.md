@@ -20,12 +20,12 @@ Before Ph.D., I received my master's degree from [University of California, Los 
 
 **Offset Unlearning for Large Language Models** \\
 <u>James Y. Huang</u>, Wenxuan Zhou, Fei Wang, Fred Morstatter, Sheng Zhang, Hoifung Poon, Muhao Chen \\
-<em>arXiv</em> \\
+<em>arXiv preprint</em> \\
 [[pdf]](https://arxiv.org/pdf/2404.11045)
 
 **DeAL: Decoding-time Alignment for Large Language Models** \\
 <u>James Y. Huang</u>, Sailik Sengupta, Daniele Bonadiman, Yi-an Lai, Arshit Gupta, Nikolaos Pappas, Saab Mansour, Katrin Kirchoff, Dan Roth \\
-<em>arXiv</em> \\
+<em>arXiv preprint</em> \\
 [[pdf]](https://arxiv.org/pdf/2402.06147)
 
 **MuirBench: A Comprehensive Benchmark for Robust Multi-image Understanding** \\
