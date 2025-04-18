@@ -3,25 +3,20 @@ layout: default
 title: "James Y. Huang"
 ---
 
-My name is James Y. Huang. I’m a third-year Ph.D. student at University of Southern California (USC) advised by [Prof. Muhao Chen](https://muhaochen.github.io/) and [Prof. Fred Morstatter](https://fredzilla.github.io/). My research interest lies in natural language processing and machine learning, with a focus on robustness and controllability of LLMs. Previously, I was a research intern at Adobe Research, Amazon AWS AI and Tencent AI Lab.
+My name is James Y. Huang. I’m a fourth-year Ph.D. student at University of Southern California (USC) advised by [Prof. Muhao Chen](https://muhaochen.github.io/) and [Prof. Fred Morstatter](https://fredzilla.github.io/). My research interest lies in natural language processing and machine learning, with a focus on robustness and controllability of LLMs. Previously, I was a research intern at Adobe Research, Amazon AWS AI and Tencent AI Lab.
 
-Before Ph.D., I received my master's degree from [University of California, Los Angeles (UCLA)](https://www.cs.ucla.edu/) where I worked with [Prof. Kai-Wei Chang](http://web.cs.ucla.edu/~kwchang/). I got my bachelor's degree in [Engineering Science](https://engsci.utoronto.ca/program/what-is-engsci/) from University of Toronto.
+Before Ph.D., I received my master's degree from University of California, Los Angeles (UCLA) where I worked with [Prof. Kai-Wei Chang](http://web.cs.ucla.edu/~kwchang/). I got my bachelor's degree in [Engineering Science](https://engsci.utoronto.ca/program/what-is-engsci/) from University of Toronto.
 
 
 
 ## News
 
-[Dec 2023] Our [paper](https://aclanthology.org/2023.emnlp-main.900.pdf) on learning compositional sentence representations won \\
+Our [paper](https://aclanthology.org/2023.emnlp-main.900.pdf) on learning compositional sentence representations won \\
 :trophy:**<span style="color:orangered">Outstanding Paper Award</span>** at EMNLP 2023!      
 
 
 ## Publications
 (* indicates equal contribution)
-
-**Offset Unlearning for Large Language Models** \\
-<u>James Y. Huang</u>, Wenxuan Zhou, Fei Wang, Fred Morstatter, Sheng Zhang, Hoifung Poon, Muhao Chen \\
-<em>arXiv preprint</em> \\
-[[pdf]](https://arxiv.org/pdf/2404.11045)
 
 **DeAL: Decoding-time Alignment for Large Language Models** \\
 <u>James Y. Huang</u>, Sailik Sengupta, Daniele Bonadiman, Yi-an Lai, Arshit Gupta, Nikolaos Pappas, Saab Mansour, Katrin Kirchoff, Dan Roth \\
@@ -31,17 +26,22 @@ Before Ph.D., I received my master's degree from [University of California, Los 
 **MuirBench: A Comprehensive Benchmark for Robust Multi-image Understanding** \\
 Fei Wang\*, Xingyu Fu\*, <u>James Y. Huang</u>, Zekun Li, Qin Liu, Xiaogeng Liu, Mingyu Derek Ma, Nan Xu, Wenxuan Zhou, Kai Zhang, Tianyi Lorena Yan, Wenjie Jacky Mo, Hsiang-Hui Liu, Pan Lu, Chunyuan Li, Chaowei Xiao, Kai-Wei Chang, Dan Roth, Sheng Zhang, Hoifung Poon, Muhao Chen \\
 <em>ICLR 2025</em> \\
-[[pdf]](https://arxiv.org/pdf/2406.09411)
+[[pdf]](https://arxiv.org/pdf/2406.09411) [[website]](https://muirbench.github.io/)
+
+**Offset Unlearning for Large Language Models** \\
+<u>James Y. Huang</u>, Wenxuan Zhou, Fei Wang, Fred Morstatter, Sheng Zhang, Hoifung Poon, Muhao Chen \\
+<em>TMLR</em> \\
+[[pdf]](https://arxiv.org/pdf/2404.11045) [[code]](https://github.com/luka-group/Delta-Unlearning)
 
 **mDPO: Conditional Preference Optimization for Multimodal Large Language Models** \\
 Fei Wang, Wenxuan Zhou, <u>James Y. Huang</u>, Nan Xu, Sheng Zhang, Hoifung Poon, Muhao Chen \\
 <em>EMNLP 2024</em> \\
-[[pdf]](https://arxiv.org/pdf/2406.11839)
+[[pdf]](https://arxiv.org/pdf/2406.11839) [[code]](https://github.com/luka-group/mDPO)
 
 **Contrastive Instruction Tuning** \\
 Tianyi Yan, Fei Wang, <u>James Y. Huang</u>, Wenxuan Zhou, Fan Yin, Aram Galstyan, Wenpeng Yin, Muhao Chen \\
 <em>ACL 2024 (Findings)</em> \\
-[[pdf]](https://arxiv.org/pdf/2402.11138)
+[[pdf]](https://arxiv.org/pdf/2402.11138) [[code]](https://github.com/luka-group/CoIN)
 
 **Bridging Continuous and Discrete Spaces: Interpretable Sentence Representation Learning via Compositional Operations** \\
 <u>James Y. Huang</u>, Wenlin Yao, Kaiqiang Song, Hongming Zhang, Muhao Chen, Dong Yu \\
