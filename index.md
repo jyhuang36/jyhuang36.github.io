@@ -16,7 +16,6 @@ Our [paper](https://aclanthology.org/2023.emnlp-main.900.pdf) on learning compos
 
 
 ## Publications
-(* indicates equal contribution)
 
 **DeAL: Decoding-time Alignment for Large Language Models** \\
 <u>James Y. Huang</u>, Sailik Sengupta, Daniele Bonadiman, Yi-an Lai, Arshit Gupta, Nikolaos Pappas, Saab Mansour, Katrin Kirchoff, Dan Roth \\
