@@ -19,7 +19,7 @@ Our [paper](https://aclanthology.org/2023.emnlp-main.900.pdf) on learning compos
 
 **DeAL: Decoding-time Alignment for Large Language Models** \\
 <u>James Y. Huang</u>, Sailik Sengupta, Daniele Bonadiman, Yi-an Lai, Arshit Gupta, Nikolaos Pappas, Saab Mansour, Katrin Kirchoff, Dan Roth \\
-<em>arXiv preprint</em> \\
+<em>ACL 2025</em> \\
 [[pdf]](https://arxiv.org/pdf/2402.06147)
 
 **MuirBench: A Comprehensive Benchmark for Robust Multi-image Understanding** \\
@@ -29,7 +29,7 @@ Fei Wang\*, Xingyu Fu\*, <u>James Y. Huang</u>, Zekun Li, Qin Liu, Xiaogeng Liu,
 
 **Offset Unlearning for Large Language Models** \\
 <u>James Y. Huang</u>, Wenxuan Zhou, Fei Wang, Fred Morstatter, Sheng Zhang, Hoifung Poon, Muhao Chen \\
-<em>TMLR</em> \\
+<em>TMLR 2025</em> \\
 [[pdf]](https://arxiv.org/pdf/2404.11045) [[code]](https://github.com/luka-group/Delta-Unlearning)
 
 **mDPO: Conditional Preference Optimization for Multimodal Large Language Models** \\
