@@ -17,13 +17,15 @@ Our [paper](https://aclanthology.org/2023.emnlp-main.900.pdf) on learning compos
 
 ## Publications
 
-[**MetaScale: Test-Time Scaling with Evolving Meta-Thoughts**](https://arxiv.org/pdf/2503.13447) \\
+**MetaScale: Test-Time Scaling with Evolving Meta-Thoughts** \\
 Qin Liu, Wenxuan Zhou, Nan Xu, <u>James Y. Huang</u>, Fei Wang, Sheng Zhang, Hoifung Poon, Muhao Chen \\
-preprint
+<em>Preprint</em> \\
+[[pdf]](https://arxiv.org/pdf/2503.13447)
 
-[**DeAL: Decoding-time Alignment for Large Language Models**](https://arxiv.org/pdf/2402.06147) \\
+**DeAL: Decoding-time Alignment for Large Language Models** \\
 <u>James Y. Huang</u>, Sailik Sengupta, Daniele Bonadiman, Yi-an Lai, Arshit Gupta, Nikolaos Pappas, Saab Mansour, Katrin Kirchoff, Dan Roth \\
 <em>ACL 2025</em> \\
+[[pdf]](https://arxiv.org/pdf/2402.06147)
 
 **MuirBench: A Comprehensive Benchmark for Robust Multi-image Understanding** \\
 Fei Wang\*, Xingyu Fu\*, <u>James Y. Huang</u>, Zekun Li, Qin Liu, Xiaogeng Liu, Mingyu Derek Ma, Nan Xu, Wenxuan Zhou, Kai Zhang, Tianyi Lorena Yan, Wenjie Jacky Mo, Hsiang-Hui Liu, Pan Lu, Chunyuan Li, Chaowei Xiao, Kai-Wei Chang, Dan Roth, Sheng Zhang, Hoifung Poon, Muhao Chen \\
