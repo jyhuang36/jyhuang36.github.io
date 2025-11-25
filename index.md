@@ -10,11 +10,10 @@ My research focuses on efficient post-training methods to improve the robustness
 Before Ph.D., I received my master's degree from University of California, Los Angeles (UCLA) where I worked with [Prof. Kai-Wei Chang](http://web.cs.ucla.edu/~kwchang/). I got my bachelor's degree in [Engineering Science](https://engsci.utoronto.ca/program/what-is-engsci/) from University of Toronto.
 
 
-
 ## News
 
 Our [paper](https://arxiv.org/pdf/2305.14599) on learning compositional sentence representations won \\
-&#127942;**<span style="color:orangered">Outstanding Paper Award</span>** at EMNLP 2023!      
+&#127942;**<span style="color:orangered">Outstanding Paper Award</span>** at EMNLP 2023!     
 
 
 ## Selected Publications
