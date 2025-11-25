@@ -1,0 +1,36 @@
+title: James Y. Huang
+blank_title: true
+logo: /assets/img/self.jpg
+email: 
+description: ""
+show_downloads: false
+google_analytics: 
+color-scheme: auto
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jemoji
+
+# You can find fonts from https://iconify.design or https://fontawesome.com. Below is just an example illustrating how to use custom icons
+sidebar:
+  - name: Google Scholar
+    icon: <i class="fa-brands fa-google-scholar"></i>
+    link: https://scholar.google.com/citations?user=8-4RhoQAAAAJ
+  - name: GitHub
+    icon: <i class="fa-brands fa-github"></i>
+    link: https://github.com/jyhuang36
+  - name: Twitter
+    icon: <i class="fa-brands fa-twitter"></i>
+    link: https://twitter.com/JamesYHuang36
+  - name: LinkedIn
+    icon: <i class="fa-brands fa-linkedin"></i>
+    link: https://www.linkedin.com/in/james-yipeng-huang-3b3a22168/
+  # - name: CV
+  #   icon: <i class="fa-solid fa-file"></i>
+  #   link: /assets/pdf/CV.pdf
+
+# https://github.com/github/pages-gem/issues/399#issuecomment-301827749
+# When running locally, we run into the following error —
+# GitHub Metadata: No GitHub API authentication could be found. Some fields may be missing or have incorrect data.
+# adding this avoids it
+github: [metadata]
