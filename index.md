@@ -11,14 +11,14 @@ Before Ph.D., I received my master's degree from University of California, Los A
 
 ## News
 
-Our [paper](https://aclanthology.org/2023.emnlp-main.900.pdf) on learning compositional sentence representations won \\
+Our [paper](https://arxiv.org/pdf/2305.14599) on learning compositional sentence representations won \\
 :trophy:**<span style="color:orangered">Outstanding Paper Award</span>** at EMNLP 2023!      
 
 
 ## Selected Publications
 
 **[Be My Eyes: Extending Large Language Models to New Modalities Through Multi-Agent Collaboration](https://arxiv.org/pdf/2511.19417)** \\
-**James Y. Huang**, Sheng Zhang, Qianchu Liu, Guanghui Qin, Tinghui Zhu, Tristan Naumann, Muhao Chen, Hoifung Poon \\
+<u>James Y. Huang</u>, Sheng Zhang, Qianchu Liu, Guanghui Qin, Tinghui Zhu, Tristan Naumann, Muhao Chen, Hoifung Poon \\
 *Preprint*
 
 
