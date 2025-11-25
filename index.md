@@ -18,7 +18,7 @@ Our [paper](https://aclanthology.org/2023.emnlp-main.900.pdf) on learning compos
 ## Selected Publications
 
 **[Be My Eyes: Extending Large Language Models to New Modalities Through Multi-Agent Collaboration](https://arxiv.org/pdf/2511.19417)** \\
-James Y. Huang, Sheng Zhang, Qianchu Liu, Guanghui Qin, Tinghui Zhu, Tristan Naumann, Muhao Chen, Hoifung Poon \\
+**James Y. Huang**, Sheng Zhang, Qianchu Liu, Guanghui Qin, Tinghui Zhu, Tristan Naumann, Muhao Chen, Hoifung Poon \\
 *Preprint*
 
 
