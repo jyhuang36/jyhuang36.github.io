@@ -14,7 +14,7 @@ Before Ph.D., I received my master's degree from University of California, Los A
 ## News
 
 Our [paper](https://arxiv.org/pdf/2305.14599) on learning compositional sentence representations won \\
-:trophy:**<span style="color:orangered">Outstanding Paper Award</span>** at EMNLP 2023!      
+&#127942;**<span style="color:orangered">Outstanding Paper Award</span>** at EMNLP 2023!      
 
 
 ## Selected Publications
@@ -61,7 +61,7 @@ Tianyi Yan, Fei Wang, <u>James Y. Huang</u>, Wenxuan Zhou, Fan Yin, Aram Galstya
 
 **[Bridging Continuous and Discrete Spaces: Interpretable Sentence Representation Learning via Compositional Operations](https://arxiv.org/pdf/2305.14599)** \\
 <u>James Y. Huang</u>, Wenlin Yao, Kaiqiang Song, Hongming Zhang, Muhao Chen, Dong Yu \\
-*EMNLP 2023* :trophy:**<span style="color:orangered">Outstanding Paper Award</span>**
+*EMNLP 2023* &#127942;**<span style="color:orangered">Outstanding Paper Award</span>**
 
 
 **[Robust Natural Language Understanding with Residual Attention Debiasing](https://arxiv.org/pdf/2305.17627)** \\
