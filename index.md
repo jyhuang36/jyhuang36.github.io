@@ -5,7 +5,7 @@ title: "James Y. Huang"
 
 My name is James Y. Huang. I’m a final-year Ph.D. student at University of Southern California (USC) advised by [Prof. Muhao Chen](https://muhaochen.github.io/) and [Prof. Fred Morstatter](https://fredzilla.github.io/). I was a research intern at Microsoft Research, Adobe Research, Amazon AWS AI, and Tencent AI Lab.
 
-My research focuses on post-training methods that improve the robustness, safety, and adaptability of (multimodal) LLMs. 
+My research focuses on post-training and inference-time methods for LLM robustness, alignment, and collaboration. 
 
 Before Ph.D., I received my master's degree from University of California, Los Angeles (UCLA) where I worked with [Prof. Kai-Wei Chang](http://web.cs.ucla.edu/~kwchang/). I got my bachelor's degree in [Engineering Science](https://engsci.utoronto.ca/program/what-is-engsci/) from University of Toronto.
 
