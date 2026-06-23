@@ -16,9 +16,9 @@ sidebar:
   - name: Google Scholar
     icon: <i class="fa-brands fa-google-scholar"></i>
     link: https://scholar.google.com/citations?user=8-4RhoQAAAAJ
-  - name: GitHub
-    icon: <i class="fa-brands fa-github"></i>
-    link: https://github.com/jyhuang36
+  # - name: GitHub
+  #   icon: <i class="fa-brands fa-github"></i>
+  #   link: https://github.com/jyhuang36
   - name: Twitter
     icon: <i class="fa-brands fa-twitter"></i>
     link: https://twitter.com/JamesYHuang36

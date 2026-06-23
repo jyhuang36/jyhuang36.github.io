@@ -7,13 +7,7 @@ I’m a Senior Applied Scientist at Microsoft. I received my Ph.D. in Computer S
 
 My research focuses on post-training and inference-time methods for LLM robustness, alignment, and collaboration. 
 
-Prior to my Ph.D., I got a Master's degree in Computer Science from the University of California, Los Angeles (UCLA), and a Bachelor's degree in [Engineering Science](https://engsci.utoronto.ca/program/what-is-engsci/) from the University of Toronto.
-
-
-## News
-
-Our [paper](https://arxiv.org/pdf/2305.14599) on learning compositional sentence representations won \\
-&#127942;**<span style="color:orangered">Outstanding Paper Award</span>** at EMNLP 2023!  
+Prior to my Ph.D., I got my Master's degree in Computer Science from the University of California, Los Angeles (UCLA), and my Bachelor's degree in [Engineering Science](https://engsci.utoronto.ca/program/what-is-engsci/) from the University of Toronto (UofT).
 
 
 ## Selected Publications
