@@ -3,11 +3,11 @@ layout: default
 title: "James Y. Huang"
 ---
 
-My name is James Y. Huang. I’m a final-year Ph.D. student at University of Southern California (USC) advised by [Prof. Muhao Chen](https://muhaochen.github.io/) and [Prof. Fred Morstatter](https://fredzilla.github.io/). I was a research intern at Microsoft Research, Adobe Research, Amazon AWS AI, and Tencent AI Lab.
+I’m a Senior Applied Scientist at Microsoft. I received my Ph.D. in Computer Science from the University of Southern California (USC), where I was advised by [Prof. Muhao Chen](https://muhaochen.github.io/) and [Prof. Fred Morstatter](https://fredzilla.github.io/). 
 
 My research focuses on post-training and inference-time methods for LLM robustness, alignment, and collaboration. 
 
-Before Ph.D., I received my master's degree from University of California, Los Angeles (UCLA) where I worked with [Prof. Kai-Wei Chang](http://web.cs.ucla.edu/~kwchang/). I got my bachelor's degree in [Engineering Science](https://engsci.utoronto.ca/program/what-is-engsci/) from University of Toronto.
+Prior to my Ph.D., I got a Master's degree in Computer Science from the University of California, Los Angeles (UCLA), and a Bachelor's degree in [Engineering Science](https://engsci.utoronto.ca/program/what-is-engsci/) from the University of Toronto.
 
 
 ## News
@@ -18,18 +18,11 @@ Our [paper](https://arxiv.org/pdf/2305.14599) on learning compositional sentence
 
 ## Selected Publications
 
+Full list of publications on [Google Scholar](https://scholar.google.com/citations?user=8-4RhoQAAAAJ)
+
+
 **[Be My Eyes: Extending Large Language Models to New Modalities Through Multi-Agent Collaboration](https://arxiv.org/pdf/2511.19417)** \\
 <u>James Y. Huang</u>, Sheng Zhang, Qianchu Liu, Guanghui Qin, Tinghui Zhu, Tristan Naumann, Muhao Chen, Hoifung Poon \\
-*Preprint*
-
-
-**[OmniStruct: Universal Text-to-Structure Generation across Diverse Schemas](https://arxiv.org/pdf/2511.18335)** \\
-<u>James Y. Huang</u>, Wenxuan Zhou, Nan Xu, Fei Wang, Qin Liu, Sheng Zhang, Hoifung Poon, Muhao Chen \\
-*Preprint*
-
-
-**[MetaScale: Test-Time Scaling with Evolving Meta-Thoughts](https://arxiv.org/pdf/2503.13447)** \\
-Qin Liu, Wenxuan Zhou, Nan Xu, <u>James Y. Huang</u>, Fei Wang, Sheng Zhang, Hoifung Poon, Muhao Chen \\
 *Preprint*
 
 
@@ -53,24 +46,9 @@ Fei Wang, Wenxuan Zhou, <u>James Y. Huang</u>, Nan Xu, Sheng Zhang, Hoifung Poon
 *EMNLP 2024*
 
 
-**[Contrastive Instruction Tuning](https://arxiv.org/pdf/2402.11138)** \\
-Tianyi Yan, Fei Wang, <u>James Y. Huang</u>, Wenxuan Zhou, Fan Yin, Aram Galstyan, Wenpeng Yin, Muhao Chen \\
-*ACL 2024 (Findings)*
-
-
 **[Bridging Continuous and Discrete Spaces: Interpretable Sentence Representation Learning via Compositional Operations](https://arxiv.org/pdf/2305.14599)** \\
 <u>James Y. Huang</u>, Wenlin Yao, Kaiqiang Song, Hongming Zhang, Muhao Chen, Dong Yu \\
 *EMNLP 2023* &#127942;**<span style="color:orangered">Outstanding Paper Award</span>**
-
-
-**[Robust Natural Language Understanding with Residual Attention Debiasing](https://arxiv.org/pdf/2305.17627)** \\
-Fei Wang, <u>James Y. Huang</u>, Tianyi Yan, Wenxuan Zhou, Muhao Chen \\
-*ACL 2023 (Findings)*
-
-
-**[Parameter-Efficient Tuning with Special Token Adaptation](https://arxiv.org/pdf/2210.04382)** \\
-Xiaocong Yang, <u>James Y. Huang</u>, Wenxuan Zhou, Muhao Chen \\
-*EACL 2023*
 
 
 **[Unified Semantic Typing with Meaningful Label Inference](https://arxiv.org/pdf/2205.01826)** \\
