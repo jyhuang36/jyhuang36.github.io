@@ -25,11 +25,6 @@ Full list of publications on [Google Scholar](https://scholar.google.com/citatio
 *ACL 2025*
 
 
-**[MuirBench: A Comprehensive Benchmark for Robust Multi-image Understanding](https://arxiv.org/pdf/2406.09411)** \\
-Fei Wang, Xingyu Fu, <u>James Y. Huang</u>, Zekun Li, Qin Liu, Xiaogeng Liu, Mingyu Derek Ma, Nan Xu, Wenxuan Zhou, Kai Zhang, Tianyi Lorena Yan, Wenjie Jacky Mo, Hsiang-Hui Liu, Pan Lu, Chunyuan Li, Chaowei Xiao, Kai-Wei Chang, Dan Roth, Sheng Zhang, Hoifung Poon, Muhao Chen \\
-*ICLR 2025*
-
-
 **[Offset Unlearning for Large Language Models](https://arxiv.org/pdf/2404.11045)** \\
 <u>James Y. Huang</u>, Wenxuan Zhou, Fei Wang, Fred Morstatter, Sheng Zhang, Hoifung Poon, Muhao Chen \\
 *TMLR 2025*
