@@ -25,11 +25,6 @@ Full list of publications on [Google Scholar](https://scholar.google.com/citatio
 *ACL 2025*
 
 
-**[Offset Unlearning for Large Language Models](https://arxiv.org/pdf/2404.11045)** \\
-<u>James Y. Huang</u>, Wenxuan Zhou, Fei Wang, Fred Morstatter, Sheng Zhang, Hoifung Poon, Muhao Chen \\
-*TMLR 2025*
-
-
 **[mDPO: Conditional Preference Optimization for Multimodal Large Language Models](https://arxiv.org/pdf/2406.11839)** \\
 Fei Wang, Wenxuan Zhou, <u>James Y. Huang</u>, Nan Xu, Sheng Zhang, Hoifung Poon, Muhao Chen \\
 *EMNLP 2024*
